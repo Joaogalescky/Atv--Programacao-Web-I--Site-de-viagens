@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/*Se quiser fazer Comentários CSS */
+
+/* Para fazer comentários, https://www.bing.com/search?q=como+colocar+coment%C3%A1rios+no+css&cvid=cb50da4b5b334afe95d1038b033e515b&aqs=edge..69i57j0l8.4715j0j1&pglt=673&FORM=ANNTA1&PC=EDGEDSE*/
+
+/* Como utilizar borders, https://developer.mozilla.org/en-US/docs/Web/CSS/border-right*/
+
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -14,7 +20,7 @@ a {
     text-decoration: none;
     color: inherit;
 }
-/*Se quiser fazer Comentários CSS */
+
 button {
     padding: 10px 15px;
     border-radius: 8px;
@@ -25,7 +31,7 @@ button {
 }
 
 header {
-    background: no-repeat center/cover url("assets/tailandia.jpg");
+    background: no-repeat center/cover url("assets/tailandia1.jpg");
     height: calc(100vh - 100px);
 }
 
@@ -50,6 +56,7 @@ header nav p {
 .header-content {
     max-width: 400px;
     margin: 150px auto;
+    color: white;
     text-align: center;
 }
 
@@ -66,13 +73,14 @@ header nav p {
 }
 
 .pacotes {
-    background: #70ef96;
+    background: white;
     padding: 15px;
 }
 
 .pacotes .pacotes-card {
     display: flex;
     margin: auto;
+    color: black;
     max-width: 950px;
     flex-wrap: wrap;
     justify-content: center;
@@ -87,7 +95,7 @@ header nav p {
 .pacotes .card {
     width: 250px;
     height: 350px;
-    background: white;
+    background: rgb(233, 233, 233);
     border-radius: 24px 0;
     margin: 25px;
     position: relative;
@@ -104,11 +112,11 @@ header nav p {
 }
 
 .pacotes .card-content ul li {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     display: flex;
     align-items: center;
     margin: 3px 0;
-    color: grey;
+    color: black;
     font-weight: bold;
 }
 
@@ -126,17 +134,18 @@ header nav p {
     position: absolute;
     right: 0;
     top: 15px;
-    background: #f19b39;
+    background: rgb(255, 51, 51);
     border-radius: 8px 0 0 8px;
-    padding: 6px 10px;
+    padding: 5px 10px;
 }
 
 .pacotes .card .card-tag-bottom {
     position: absolute;
     left: 0;
-    top: 160px;
-    background: #1d61dd;
-    border-radius: 8px 0 0 8px;
+    top: 165px;
+    background: rgb(29, 197, 29);
+    border-bottom-right-radius: 8px 8px;
+    border-top-right-radius: 8px 8px;
     padding: 5px 10px;
 }
 
