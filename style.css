@@ -31,7 +31,7 @@ button {
 }
 
 header {
-    background: no-repeat center/cover url("assets/tailandia1.jpg");
+    background: no-repeat center/cover url("assets/Tailandia5.jpg");
     height: calc(100vh - 100px);
 }
 
@@ -154,4 +154,72 @@ header nav p {
     font-size: 0.8rem;
     color: white;
     font-weight: bold;
+}
+
+.servicos{
+    padding: 15px;
+}
+
+.servicos .servicos-title{
+    text-align: center;
+    margin: 35px 0;
+}
+
+.servicos .servicos-cards{
+    margin-top: 25px;
+    display: flex;
+    max-width: 950px;
+    justify-content: center;
+    margin: auto;
+
+
+}
+
+.servicos .card{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+}
+
+.servicos .card svg {
+    width: 60px;
+    height: 60px;
+    margin: 50px;
+}
+
+.servics .card svg:hover {
+    stroke: blue;
+    transform: scale(1.1);
+}
+
+.servicos .card.h3 {
+    font-weight: bold;
+}
+
+.servicos .card p {
+    color: gray;
+    font-size: .8rem;
+    text-align: center;
+}
+
+.servicos .card .card-content {
+    height: 180px;
+    text-align: center;
+}
+
+.contatos {
+    padding: 20px;
+    height: 250px;
+    width: 2000px;
+    margin: 20px;
+    background: rgb(233, 233, 233);
+}
+
+.mail svg {
+    color: blue;
+    margin: 10px;
+    height: 15px;
 }
