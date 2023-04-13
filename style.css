@@ -219,25 +219,25 @@ header nav p {
 }
 
 .mail svg {
-    color: blue;
+    color: rgb(0, 38, 255);
     margin: 10px;
     height: 15px;
 }
 
 .instagram svg {
-    color: blue;
+    color: rgb(94, 0, 201);
     margin: 10px;
     height: 15px;
 }
 
 .facebook svg {
-    color: blue;
+    color: rgb(0, 110, 255);
     margin: 10px;
     height: 15px;
 }
 
 .smartphone svg {
-    color: blue;
+    color: rgb(0, 131, 81);
     margin: 10px;
     height: 15px
 }
