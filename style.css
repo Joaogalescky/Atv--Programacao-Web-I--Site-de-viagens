@@ -223,3 +223,21 @@ header nav p {
     margin: 10px;
     height: 15px;
 }
+
+.instagram svg {
+    color: blue;
+    margin: 10px;
+    height: 15px;
+}
+
+.facebook svg {
+    color: blue;
+    margin: 10px;
+    height: 15px;
+}
+
+.smartphone svg {
+    color: blue;
+    margin: 10px;
+    height: 15px
+}
