@@ -211,33 +211,33 @@ header nav p {
 }
 
 .contatos {
-    padding: 20px;
+    padding: 2px;
     height: 250px;
     width: 2000px;
-    margin: 20px;
+    margin-top: 15px;
     background: rgb(233, 233, 233);
 }
 
 .mail svg {
     color: rgb(0, 38, 255);
-    margin: 10px;
-    height: 15px;
-}
-
-.instagram svg {
-    color: rgb(94, 0, 201);
-    margin: 10px;
+    margin: 8px;
     height: 15px;
 }
 
 .facebook svg {
     color: rgb(0, 110, 255);
-    margin: 10px;
+    margin: 8px;
+    height: 15px;
+}
+
+.instagram svg {
+    color: rgb(94, 0, 201);
+    margin: 8px;
     height: 15px;
 }
 
 .smartphone svg {
     color: rgb(0, 131, 81);
-    margin: 10px;
+    margin: 8px;
     height: 15px
 }
