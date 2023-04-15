@@ -242,3 +242,7 @@ header nav p {
     margin: 8px;
     height: 15px
 }
+
+html, body {
+    overflow-x: hidden;
+}
