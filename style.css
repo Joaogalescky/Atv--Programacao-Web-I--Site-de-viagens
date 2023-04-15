@@ -211,9 +211,10 @@ header nav p {
 }
 
 .contatos {
-    padding: 2px;
+    margin-left: -15px;
+    padding: 10px;
     height: 250px;
-    width: 2000px;
+    width:2000px;
     margin-top: 15px;
     background: rgb(233, 233, 233);
 }
