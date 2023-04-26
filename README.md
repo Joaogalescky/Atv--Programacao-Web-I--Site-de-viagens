@@ -7,8 +7,8 @@
  2. CSS
  3. VsCode
  4. GitHub
- 
-![Logo do IFPR](https://github.com/Joaogalescky/siteviagens_webi_2023/blob/c042c6f7547861f945101305e1a47773bb017157/download.png)
+
+![IFPR Logo](https://user-images.githubusercontent.com/126702799/234438114-4db30796-20ad-4bec-b118-246ebbe9de63.png)
  
  **By João Vitor Campõe Galescky**
 
